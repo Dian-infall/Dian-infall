@@ -20,7 +20,7 @@
       <img src="1791629090393.png" width="100%">
     </td>
     <td width="34%" align="center">
-      $$\color{#ffb6c1}\text{★\ Dian\ ★}$$ <br><br>
+      $$\color{#ffb6c1}\text{𓏽\ Dian\ 𓏽}$$ <br><br>
       $$\color{#a2d2ff}\text{16↓\ •\ they/them}$$ <br>
       $$\color{#c8a2c8}\text{multi\ fds\ •\ deltarune}$$ <br><br>
       $$\color{#ffb6c1}\text{welcome\ to\ my\ space}$$
