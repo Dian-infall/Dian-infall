@@ -44,7 +44,7 @@
       $$\color{#a2c2e8}\text{in\ quiet\ places.}$$
     </td>
     <td width="60%" align="center">
-      <img src="1791721898445.png" width="100%">
+      <img src="1791723430820.png" width="100%">
     </td>
   </tr>
 </table>
