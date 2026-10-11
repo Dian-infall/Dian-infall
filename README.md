@@ -17,7 +17,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="33%" align="center">
-      <img src="1791629090393.png" width="100%">
+      <img src="378b7247a1e5099d353776452d501fa2.gif" width="100%">
     </td>
     <td width="34%" align="center">
       $$\color{#ffb6c1}\text{𓏽\ Dian\ 𓏽}$$ <br><br>
