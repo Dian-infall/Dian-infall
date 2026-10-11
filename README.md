@@ -5,15 +5,15 @@
       <img src="1791629090393.png" width="100%">
     </td>
     <td width="30%" align="center">
-      $$\color{#e8b4b8}\text{soft\ light}$$ <br><br>
-      $$\color{#dfb4db}\text{in\ the\ dark\ ♡}$$
+      $$\color{#e8b4b8}\text{quiet\ thoughts}$$ <br><br>
+      $$\color{#dfb4db}\text{lost\ in\ time\ ♡}$$
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- KHUNG 2: Chia 3 Ô Đều Nằm Ngang (Ảnh - Chữ Bio - Ảnh) -->
+<!-- KHUNG 2: Chia 3 Ô Đều Nằm Ngang (Ảnh - Chữ Bio Dài Susie x Ralsei - Ảnh) -->
 <table border="0" width="100%">
   <tr>
     <td width="33%" align="center">
@@ -23,7 +23,9 @@
       $$\color{#d8b4f8}\text{𓏽\ Dian\ 𓏽}$$ <br><br>
       $$\color{#d0b5fc}\text{16↓\ •\ they/them}$$ <br>
       $$\color{#c8b6ff}\text{multi\ fds\ •\ deltarune}$$ <br><br>
-      $$\color{#c0baff}\text{welcome\ to\ my\ space}$$
+      $$\color{#c0baff}\text{susie\ x\ ralsei\ brainrot\ ♡}$$ <br>
+      $$\color{#b8c0ff}\text{the\ softest\ dynamic}$$ <br><br>
+      $$\color{#adcbfa}\text{welcome\ to\ my\ space!}$$
     </td>
     <td width="33%" align="center">
       <img src="1791721606041.png" width="100%">
