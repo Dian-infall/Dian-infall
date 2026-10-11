@@ -1,6 +1,6 @@
 <!-- KHUNG 0 (MỚI): Chữ bên trái (30%) + Ảnh bên phải (70%) -->
 <p align="center">
-  <img src="74dfbbe289c95ce8d7542f959b24469c.jpg" width="150px">
+  <img src="1791727894624.png" width="150px">
 </p>
 
 <table border="0" width="100%">
