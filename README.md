@@ -2,7 +2,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center">
-      <img src="44.gif" width="25px"> <br><br>
+      <img src="217.gif" width="25px"> <br><br>
       $$\color{#f4c2c2}\mathit{lost\ in\ thoughts}$$ <br><br>
       $$\color{#ebd2e8}\mathit{in\ a\ starry\ night\ ✧}$$
     </td>
