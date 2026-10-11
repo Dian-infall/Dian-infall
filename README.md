@@ -13,17 +13,17 @@
 
 <br>
 
-<!-- KHUNG 2: Chia 3 Ô Đều Nằm Ngang (Ảnh - Chữ Bio - Ảnh) -->
+<!-- KHUNG 2: CHÍNH GIỮA - NỔI BẬT NGHỆ THUẬT & KHÔNG TRÙNG BIO -->
 <table border="0" width="100%">
   <tr>
     <td width="33%" align="center">
       <img src="378b7247a1e5099d353776452d501fa2.gif" width="100%">
     </td>
     <td width="34%" align="center">
-      $$\color{#d8b4f8}\mathit{𓏽\ Dian\ 𓏽}$$ <br><br>
-      $$\color{#d0b5fc}\mathit{16↓\ •\ they/them}$$ <br>
-      $$\color{#c8b6ff}\mathit{multi\ fds\ •\ deltarune}$$ <br><br>
-      $$\color{#c0baff}\mathit{welcome\ to\ my\ space}$$
+      $$\color{#d8b4f8}\mathit{✦\ DIAN\ ✦}$$ <br><br>
+      $$\color{#d0b5fc}\mathit{a\ soul\ wandering\ in\ the\ dark\ world}$$ <br>
+      $$\color{#c8b6ff}\mathit{crafting\ stories\ •\ chasing\ stars}$$ <br><br>
+      $$\color{#c0baff}\mathit{welcome\ to\ my\ universe\ ♡}$$
     </td>
     <td width="33%" align="center">
       <img src="1791721606041.png" width="100%">
