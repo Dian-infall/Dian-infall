@@ -26,7 +26,7 @@
       $$\color{#ffb6c1}\text{welcome\ to\ my\ space}$$
     </td>
     <td width="33%" align="center">
-      <img src="48776a71bc05963fc8aca6ee4e7b15ab.gif" width="100%">
+      <img src="1791721606041.png" width="100%">
     </td>
   </tr>
 </table>
