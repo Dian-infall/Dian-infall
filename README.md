@@ -6,7 +6,7 @@
       $$\color{#ebd2e8}\mathit{in\ a\ starry\ night\ ✧}$$
     </td>
     <td width="70%" align="center">
-      <img src="1791629090393.png" width="100%">
+      <img src="1791725215860.png" width="100%">
     </td>
   </tr>
 </table>
