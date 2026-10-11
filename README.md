@@ -5,9 +5,7 @@
       <img src="1791629090393.png" width="100%">
     </td>
     <td width="30%" align="center">
-      $$\color{#ffb6c1}\text{susie\ s\ e}$$ <br>
-      $$\color{#c8a2c8}\text{+\ dark\ mode}$$ <br><br>
-      $$\color{#a2d2ff}\text{soft\ light}$$ <br>
+      $$\color{#a2d2ff}\text{soft\ light}$$ <br><br>
       $$\color{#ffb6c1}\text{in\ the\ dark\ ♡}$$
     </td>
   </tr>
