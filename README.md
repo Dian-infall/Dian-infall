@@ -53,5 +53,5 @@
 
 <!-- KHUNG 4: Dòng chữ Footer nhỏ căn giữa khép lại Profile -->
 <p align="center">
-  $$\color{#a0c4ff}\mathit{►\ click\ links\ below\ •\ thanks\ for\ visiting\ my\ profile\ ♡}$$
+  $$\color{#a0c4ff}\mathit{►\ thanks\ for\ visiting\ my\ profile\ ♡}$$
 </p>
