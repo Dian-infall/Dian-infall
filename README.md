@@ -20,7 +20,7 @@
       <img src="378b7247a1e5099d353776452d501fa2.gif" width="100%">
     </td>
     <td width="34%" align="center">
-      $$\color{#d8b4f8}\mathit{ヾ\ DIAN\ ヾ}$$ <br><br>
+      $$\color{#d8b4f8}\mathit{ヾ\ Deltarune\ ヾ}$$ <br><br>
       $$\color{#d0b5fc}\mathit{a\ soul\ wandering\ in\ the\ dark\ world}$$ <br>
       $$\color{#c8b6ff}\mathit{crafting\ stories\ •\ chasing\ stars}$$ <br><br>
       $$\color{#c0baff}\mathit{welcome\ to\ my\ universe\ ♡}$$
