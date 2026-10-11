@@ -1,3 +1,18 @@
+<!-- KHUNG 0 (MỚI): Chữ bên trái (30%) + Ảnh bên phải (70%) -->
+<table border="0" width="100%">
+  <tr>
+    <td width="30%" align="center">
+      $$\color{#f4c2c2}\mathit{lost\ in\ thoughts}$$ <br><br>
+      $$\color{#ebd2e8}\mathit{in\ a\ starry\ night\ ✧}$$
+    </td>
+    <td width="70%" align="center">
+      <img src="1791629090393.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <!-- KHUNG 1: Banner chính Lớn (70%) + Ô Thơ Xếp Dọc Bên Phải (30%) -->
 <table border="0" width="100%">
   <tr>
