@@ -37,7 +37,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="40%" align="center">
-      🕊️ <br><br>
+"44.gif" <br><br>
       $$\color{#bbadff}\text{stars\ don't\ shine}$$ <br>
       $$\color{#b8c0ff}\text{without\ darkness,}$$ <br><br>
       $$\color{#adcbfa}\text{and\ love\ is\ found}$$ <br>
