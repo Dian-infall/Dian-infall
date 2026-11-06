@@ -26,7 +26,7 @@
       $$\color{#c0baff}\mathit{welcome\ to\ my\ universe\ ♡}$$
     </td>
     <td width="33%" align="center">
-      <img src="1791721606041.png" width="100%">
+      <img src="1793930360869.png" width="100%">
     </td>
   </tr>
 </table>
